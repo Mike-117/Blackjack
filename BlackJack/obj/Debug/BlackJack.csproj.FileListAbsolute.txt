@@ -8,3 +8,13 @@ C:\Users\Michael\source\repos\BlackJack\obj\Debug\BlackJack.pdb
 C:\Users\Michael\source\repos\BlackJack\bin\Debug\Casino.dll
 C:\Users\Michael\source\repos\BlackJack\bin\Debug\Casino.pdb
 C:\Users\Michael\source\repos\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\bin\Debug\Casino.dll
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\bin\Debug\Casino.pdb
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Michael\Mike-117\Blackjack\BlackJack\obj\Debug\BlackJack.pdb
